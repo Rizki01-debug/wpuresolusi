@@ -1,0 +1,4 @@
+wpu resolusi
+-bisa mwmbuat javascript
+-dapat bisa mengoperasikan git
+-bisa membuat web portofolio sendiri dengan bagus
